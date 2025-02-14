@@ -17,7 +17,7 @@ Welcome to **Is A Web App**! 🚀
 - **Frontend:** React
 - **Backend:** Node.js, Python
 - **Database:** MySQL
-- **Cloud & DevOps:** Docker, Kubernetes, Cloudflare, Oracle Cloud
+- **Cloud & DevOps:** Docker, Cloudflare, Oracle Cloud
 
 ## Roadmap
 Here are some upcoming features and improvements:
