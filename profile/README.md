@@ -14,10 +14,8 @@ Welcome to **Is A Web App**! 🚀
 ## Get Involved
 As the **solo developer** of this project, I appreciate any feedback or collaboration ideas! Feel free to reach out or contribute.
 
-## Contact
-📧 Email: [contact@tonyliu.cloud](mailto:contact@tonyliu.cloud)  
-💼 LinkedIn: [Tony Liu](https://www.linkedin.com/in/tonyliu)  
-🐦 Twitter: [@tonyliucloud](https://twitter.com/tonyliucloud)
+## Owner
+@tonyliucloud
 
 Thank you for visiting **Is A Web App**! 🚀
 
